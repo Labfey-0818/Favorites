@@ -1,8 +1,16 @@
 *{
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
+    margin: 100px;
 }
 h1, h2, h3, h4, h5{
     color: #00FF41;
     font-family: 'Courier New', Courier, monospace;
+}
+#header{
+
+}
+
+#fav{
+    color: #00FF41;
 }
