@@ -1,17 +1,19 @@
 *{
-    background-image: url("https://i.makeagif.com/media/4-03-2024/tuD_pn3.jpg");
+    background-image: url(https://i.makeagif.com/media/4-03-2024/tuD_pn3.jpg);
     font-family: 'Courier New', Courier, monospace;
     margin: 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 h1, h2, h3, h4, h5{
     color: #0000;
     font-family: 'Courier New', Courier, monospace;
 }
-#header{
 
-}
 
 #fav{
+    font-family: 'Courier New', Courier, monospace;
     list-style: none;
-    margin: 10px;
+    margin: 5px;
+    color: #0000;
 }
