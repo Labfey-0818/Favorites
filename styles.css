@@ -3,7 +3,7 @@
     margin: 0.5px;
 }
 body{
-    background-color: blanchedalmond;
+    background-color: #0000;
 }
 h1, h2, h3, h4, h5{
     color: #0000;
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5{
     font-family: 'Courier New', Courier, monospace;
     list-style: none;
     margin: 0.5px;
-    color: #0000;
+    color: white;
 }
 ul, li{
     list-style: none;
