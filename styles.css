@@ -4,7 +4,7 @@
 }
 body{
     background-image: url(https://opengameart.org/sites/default/files/styles/medium/public/battleback1_0.png);
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: cover;
 }
 h1, h2, h3, h4, h5{
@@ -21,4 +21,16 @@ h1, h2, h3, h4, h5{
 }
 ul, li{
     list-style: none;
+}
+
+header{
+    text-align: center;
+}
+
+.fav{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    font-weight: bolder;
+    font-size: large;
 }
