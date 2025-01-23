@@ -3,7 +3,9 @@
     margin: 0.5px;
 }
 body{
-    background-color: #0000;
+    background-image: url(https://opengameart.org/sites/default/files/styles/medium/public/battleback1_0.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1, h2, h3, h4, h5{
     color: #0000;
