@@ -16,7 +16,8 @@ body{
     width: 100%;
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-
+    justify-content: space-between;
+    z-index: 1;
 }
 
 .navbar ul{
@@ -42,4 +43,8 @@ body{
 .navbar h1{
     float: left;
     padding: 10px;
+}
+.main_class{
+    padding-top: 100px;
+    z-index: 0;
 }
